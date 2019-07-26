@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Fenol" size="1.000000 0.548913" />
+    <ImageTarget name="Aspirina" size="1.000000 0.372694" />
+    <ImageTarget name="Interstellar" size="1.000000 1.655763" />
+    <ImageTarget name="Castel" size="1.000000 0.640118" />
+    <ImageTarget name="Adidas" size="1.000000 0.680147" />
+    <ImageTarget name="KLM" size="1.000000 1.071882" />
+    <ImageTarget name="Samsung" size="1.000000 1.000000" />
+    <ImageTarget name="Microsoft" size="1.000000 0.600000" />
+    <ImageTarget name="Viteza" size="1.000000 1.000000" />
+    <ImageTarget name="Biciclist" size="1.000000 0.881188" />
+    <ImageTarget name="Inspre" size="1.000000 0.885152" />
+    <ImageTarget name="Bran" size="1.000000 1.273759" />
+    <ImageTarget name="Pieton" size="1.000000 1.000000" />
+    <ImageTarget name="Stop" size="1.000000 0.999219" />
+  </Tracking>
+</QCARConfig>
